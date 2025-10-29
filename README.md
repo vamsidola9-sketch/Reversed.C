@@ -7,3 +7,14 @@ it uses a while loop to extract digits one by one from the original number and b
 gcc reverse_number.C-o reverse  (compilation)
 ./reverse   (to run)
 
+our sponsorship helps me:
+- Continue developing helpful projects 🧩  
+- Share tutorials for beginners 📘  
+- Keep growing in open-source development 🌍  
+
+Thank you for your support! 🙏
+
+---
+
+### 📸 Connect with Me
+- GitHub: [@vamsidola9-sketch](https://github.com/vamsidola9-sketch)
